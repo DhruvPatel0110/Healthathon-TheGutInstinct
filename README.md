@@ -420,38 +420,6 @@ Gut Instinct generates a **comprehensive risk assessment** for each patient:
 
 ---
 
-## 🏆 Hackathon Context
-
-<table>
-<tr>
-<td>
-
-**Event:** Health-a-thon 2026 — India's Leading Health Ecosystem Comes Together
-
-**Track:** 🎗️ Cancer
-
-**Use Case:** Patient Registry & Population Health
-
-**Primary User:** Doctor / Care Team
-
-**Solution Type:** Building a new solution from scratch
-
-</td>
-<td>
-
-**Organized By:**
-- **Koita Foundation** — Driving Digital Health & AI adoption in India
-- **IIT Bombay - KCDH** — India's first academic centre dedicated to Digital Health
-- **Federation of Obstetric and Gynaecological Societies of India (FOGSI)**
-- **National Cancer Grid** — 370+ member institutions serving nearly 60% of all cancer patients in India
-- **Research Society for the Study of Diabetes in India**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🙏 Acknowledgements
 
 We would like to express our gratitude to:
