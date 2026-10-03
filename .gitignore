@@ -1,0 +1,12 @@
+# ============================
+# Ignore everything except README
+# ============================
+
+# Ignore all files
+*
+
+# But not the README
+!README.md
+
+# And not .gitignore itself
+!.gitignore
