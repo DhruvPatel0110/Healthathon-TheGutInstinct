@@ -405,14 +405,14 @@ Gut Instinct generates a **comprehensive risk assessment** for each patient:
 
 ### Dr. S. Srikar Bharadwaj
 
-*Co-Lead & Architect*
+*Co-Lead & Clinical Strategy*
 
 </td>
 <td align="center" width="50%">
 
 ### Dr. Jayalaxmi Srinivasan
 
-*Co-Lead & Clinical Strategy*
+*Co-Lead & Architect*
 
 </td>
 </tr>
